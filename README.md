@@ -1,2 +1,4 @@
 # git-Update
-Script for updating GitHub repositories
+*Bash script for updating GitHub repositories*
+
+This currently only finds and updates repositories in one chosen directory using "pull origin master."
